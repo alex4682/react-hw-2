@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import reportWebVitals from './reportWebVitals';
-import { Greeting } from './Greeting';
-import { Message } from './Message';
-import {Button} from './Button';
+import { Greeting } from './task1/Greeting';
+import { Message } from './task2/Message';
+import {Button} from './task3/Button';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
